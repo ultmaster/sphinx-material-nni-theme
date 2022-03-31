@@ -20,6 +20,8 @@ and `Guzzle Sphinx Theme <https://github.com/guzzle/guzzle_sphinx_theme>`_.
 See the theme's `demonstration site <https://bashtage.github.io/sphinx-material/>`_
 for examples of rendered rst.
 
+**This repo is forked from https://github.com/bashtage/sphinx-material to customize documentation themes for `Microsoft NNI <https://github.com/microsoft/nni>`_. Please note that some of the designs are tailored for NNI, and will not fit well into arbitrary projects.**
+
 Installation
 ------------
 
